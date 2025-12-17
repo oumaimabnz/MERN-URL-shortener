@@ -10,6 +10,7 @@ The project demonstrates backend API development, database integration, frontend
 ## 🚀 Live Demo
 
 👉 https://mern-url-shortener-drab.vercel.app/
+
 ---
 
 ## 🧰 Tech Stack
